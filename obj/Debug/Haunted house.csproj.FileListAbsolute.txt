@@ -1,0 +1,7 @@
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\bin\Debug\Haunted house.exe.config
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\bin\Debug\Haunted house.exe
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\bin\Debug\Haunted house.pdb
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\obj\Debug\Haunted house.csproj.AssemblyReference.cache
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\obj\Debug\Haunted house.csproj.CoreCompileInputs.cache
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\obj\Debug\Haunted house.exe
+C:\Users\ummehc\OneDrive\Desktop\10\Haunted house\obj\Debug\Haunted house.pdb
